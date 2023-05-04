@@ -22,17 +22,17 @@ To run this Application on your Server run
 ## Screenshots
 Home Page
 
-![Home Page](https://ibb.co/CnHbCmQ)
+![Home Page](https://user-images.githubusercontent.com/97001973/236125832-011d2571-3bdb-4455-bcfb-9491d7f5a311.png)
 
 Contact Page
 
-![Contact Page](https://ibb.co/dtXff2c)
+![Contact Page](https://user-images.githubusercontent.com/97001973/236125816-1705aff5-50a9-4284-9f4f-9b86db98176d.png)
 
 Login Page
 
-![Login Page](https://ibb.co/TWLDr65)
+![Login Page](https://user-images.githubusercontent.com/97001973/236125791-7961c9cc-38d6-42be-b700-5f8a5c069dd8.png)
 
 Register Page
 
-![Register Page](https://ibb.co/fDqc09k)
+![Register Page](https://user-images.githubusercontent.com/97001973/236125705-ed9a00d7-1e86-4bba-abca-4ee9ffb96969.png)
 
